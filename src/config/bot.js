@@ -25,8 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made by: chief_sukuna whit 💙 for other communitys.
-          "Status:"
+        name: "Made by: chief_sukuna whit 💙 for other communitys."
           "⚪Currently Down"
           "🔴Something Wrong"
           "🟡Reworking🛠️

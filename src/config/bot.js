@@ -25,7 +25,12 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Made by: chief_sukuna whit 💙 for other communitys.
+          "Status:"
+          "⚪Currently Down"
+          "🔴Something Wrong"
+          "🟡Reworking🛠️
+          "🟢Online,"
         // Activity type number (0 = Playing).
         type: 0, 
       },
@@ -57,8 +62,8 @@ export const botConfig = {
     // Default questions shown when someone fills out an application.
     defaultQuestions: [
       { question: "What is your name?", required: true },
-      { question: "How old are you?", required: true },
-      { question: "Why do you want to join?", required: true },
+      { question: "How old are you?", required: false },
+      { question: "Why do you want to join?", required: false },
     ],
 
     // Embed colors by application status.

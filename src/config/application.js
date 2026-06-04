@@ -118,6 +118,4 @@ const appConfig = {
   isDevelopment: process.env.NODE_ENV !== "production",
 };
 
-Object.freeze(appConfig);
-
 export default appConfig;
